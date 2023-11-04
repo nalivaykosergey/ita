@@ -1,0 +1,3 @@
+[submodule "libs/set"]
+	path = libs/set
+	url = https://github.com/barrust/set
